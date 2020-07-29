@@ -14,7 +14,7 @@ The article "The tidal remnant of an unusually metal-poor globular cluster" by Z
 
 ## Images:
 
-The high resolution images and videos can be downloaded here
+The high resolution images and videos can be downloaded [here](./Images_Videos/)
 
 
 
