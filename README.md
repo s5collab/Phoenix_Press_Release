@@ -35,8 +35,6 @@ Caption: Artist’s impression of the thin stream of stars torn from the Phoenix
 ## Videos
 
 ```
-<a href="https://youtu.be/BjiKhp15GbA"
-target="_blank"><img src="https://youtu.be/BjiKhp15GbA/0.jpg"
-alt="Phoenix Stream" width="600" height="400" border="1" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BjiKhp15GbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
