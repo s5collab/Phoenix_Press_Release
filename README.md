@@ -6,9 +6,9 @@ The article "The tidal remnant of an unusually metal-poor globular cluster" by Z
 
 - [The S5​ collaboration](https://s5collab.github.io)
 
-- [The Anglo-Australian Telescope](https://www.aao.gov.au/about-us/anglo-australian-telescope)
+- [The Anglo-Australian Telescope](https://aat.anu.edu.au/about-us/AAT)
 
-- [The Homepage of Geraint F. Lewis](http://www.physics.usyd.edu.au/~gfl/Home.html)
+- [The Homepage of Geraint F. Lewis](https://www.geraintflewis.com)
 
 - [The Homepage of Ting Li](https://sazabi4.github.io)
 
@@ -20,7 +20,8 @@ The high resolution images and videos can be downloaded [here](./Images_Videos/)
 
 ![Phoenix_Artist_Rep](./Images_Videos/Phoenix_Artist_Rep.jpg)
 
-Caption: An artist's representation of the Phoenix Stellar Stream. Originally a ball of stars, known as a globular cluster, Phoenix has been stretched into a stream of stars by the gravitational pull of the Milky Way. In a few billion years, Phoenix will be completely destroyed and absorbed into our Galaxy (*Credit: Geraint F. Lewis and the S5 collaboration*).
+Caption: An artist's representation of the Phoenix Stellar Stream. Originally a ball of stars, known as a globular cluster, Phoenix has been stretched into a stream of stars by the gravitational pull of the Milky Way. In a few billion years, Phoenix will be completely destroyed and absorbed into our Galaxy (*Credit: Geraint F. 
+and the S5 collaboration*).
 
 ---
 
